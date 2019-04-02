@@ -4,3 +4,5 @@ again editxt good
 
 one more
 one more 2
+
+stash -- bugfix
